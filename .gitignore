@@ -10,6 +10,8 @@ npm-debug.log
 *.DS_Store
 *.swp
 selenium/
+.erc
+badfolder/
 
 # Build artifacts
 
